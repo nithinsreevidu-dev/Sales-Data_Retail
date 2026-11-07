@@ -6,13 +6,15 @@ The company wants to understand its overall sales and profit performance across 
 
 Currently, the company needs better visibility into:
 
-* \- Which products and categories generate the highest sales?
-* \- Which products generate the highest and lowest profits?
-* \- Which customers contribute the most revenue?
-* \- Which states and regions perform well?
-* \- How do discounts affect profitability?
-* \- How do sales and profits change from year to year?
-* \- Which months generate the highest and lowest sales?
+	Which year generated the highest sales and profit?
+	Which month has the highest sales?
+	Which category generates the highest sales and profit?
+	Which region generates the highest revenue?
+	Which customers contribute the most sales?
+	Is profit increasing or decreasing year by year?
+	Does discount affect profitability?
+	Which categories or regions need improvement?
+
 
 
 

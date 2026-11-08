@@ -62,5 +62,6 @@ Dataset: Retail Sales.xlsx
 12. Project Conclusion
     The project converts inconsistent raw data into an analytics-ready Power BI solution through cleaning, transformation, modelling and           visualization.
 ############################################################################################################################################
-
-
+Sales Analytics Report
+#########################
+https://kommodo.ai/i/HU0MtpL0ZO5ZEA6LwpHn

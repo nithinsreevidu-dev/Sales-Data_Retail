@@ -64,4 +64,6 @@ Dataset: Retail Sales.xlsx
 ############################################################################################################################################
 Sales Analytics Report
 #########################
-https://kommodo.ai/i/HU0MtpL0ZO5ZEA6LwpHn
+
+<img width="1608" height="847" alt="Sales Analytics" src="https://github.com/user-attachments/assets/bd2afb95-8815-465e-a4c2-ffdf044d78cf" />
+

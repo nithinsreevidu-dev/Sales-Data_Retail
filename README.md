@@ -1,6 +1,6 @@
 # Sales-Data_Retail
 Data Analyst Mini Project On Excel &amp; PowerBI
-### **Problem statement  :***********************************************************************************************8
+### **Problem statement  :***********************************************************************************************
 The company wants to understand its overall sales and profit performance across different products, customers, regions and time periods.
 Currently, the company needs better visibility into:
 
@@ -11,9 +11,10 @@ Currently, the company needs better visibility into:
 * \- How do discounts affect profitability?
 * \- How do sales and profits change from year to year?
 * \- Which months generate the highest and lowest sales?
-###############################################################################################################
+####################################################################
 
-##################################################################################################################
+
+#####################################
 POWER BI SALES ANALYTICS PROJECT 
 ######################################
 Sheets: Sales, Messy Data, Descriptive Analysis. Fields include Order ID, Customer Name, Category, Sub Category, City, Order Date, Region, Sales, Discount, Profit, State.

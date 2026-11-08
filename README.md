@@ -62,8 +62,20 @@ Dataset: Retail Sales.xlsx
 12. Project Conclusion
     The project converts inconsistent raw data into an analytics-ready Power BI solution through cleaning, transformation, modelling and           visualization.
 ############################################################################################################################################
+
+
 Sales Analytics Report
 #########################
 
 <img width="1608" height="847" alt="Sales Analytics" src="https://github.com/user-attachments/assets/bd2afb95-8815-465e-a4c2-ffdf044d78cf" />
 
+################################
+Profit Analytics
+##################################
+<img width="1602" height="842" alt="Profit Analytics" src="https://github.com/user-attachments/assets/59a46040-1e9a-4c7f-aac2-a51e5a9894c9" />
+
+##########################################
+Sales & Profit Performance DashBoard
+#########################################
+
+<img width="1596" height="845" alt="Sales   Profit Performance DashBoard" src="https://github.com/user-attachments/assets/19b4e22a-2143-4f7a-86b3-1f0ef7bb146d" />
